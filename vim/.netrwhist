@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/rxa/Apps/code/javaScript/Vue/course/test/src/views'
+let g:netrw_dirhist_2='/home/rxa/Apps/code/javaScript/Vue/course/test/src/components'
+let g:netrw_dirhist_3='/home/rxa/Apps/code/javaScript/Vue/course/test/src/components/layout'
+let g:netrw_dirhist_4='/home/rxa/Apps/code/javaScript/Vue/githubShowStarsFrontEnd/gssfrontend/src/views'
+let g:netrw_dirhist_5='/home/rxa/Apps/code/javaScript/Vue/gssfrontend/src/views'
+let g:netrw_dirhist_6='/home/rxa/Apps/code/javaScript/Vue/gssfrontend/node_modules/@vue/cli-plugin-eslint/node_modules/eslint'
+let g:netrw_dirhist_7='/home/rxa/Apps/code/javaScript/Vue/gssfrontend/node_modules/@vue/cli-plugin-eslint/node_modules/eslint/conf'
+let g:netrw_dirhist_8='/home/rxa/Apps/code/javaScript/Vue/gssfrontend/src/components'
+let g:netrw_dirhist_9='/home/rxa/.config/polybar'

@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/zero/.config/i3status'
+let g:netrw_dirhist_2='/home/zero/.config'
+let g:netrw_dirhist_3='/media/Drive/Apps/Code or Scripts/Bash/Confs/Vim/vim'
+let g:netrw_dirhist_4='/usr/local/sbin'
+let g:netrw_dirhist_5='/media/Drive/Apps/Code or Scripts/Bash'
+let g:netrw_dirhist_6='/home/zero/odinCourse/ruby_on_rails/carsApp/config'
+let g:netrw_dirhist_7='/home/zero/changeBacklight'
